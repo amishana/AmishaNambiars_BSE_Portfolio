@@ -5,10 +5,13 @@ I am working on a third eye for the visually blind.
 |:--:|:--:|:--:|:--:|
 | Amisha | Carlmont | Electrical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://www.thespruce.com/thmb/gHnKB63imEVFCXL8JFkS-90nn5A=/3102x2068/filters:fill(auto,1)/parts-of-a-duck-385986-hero-0d59c12e67884a6384ffb46111973702.jpg)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+
+[![10,000 ducks](https://res.cloudinary.com/marcomontalbano/image/upload/v1623949163/video_to_markdown/images/youtube--Nw4c5RhRYMY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Nw4c5RhRYMY "10,000 ducks")
+{:target="_blank" rel="noopener"}
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
