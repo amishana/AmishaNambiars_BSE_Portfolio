@@ -3,7 +3,7 @@ I am working on a third eye for the visually blind.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Amisha Nambiar | Carlmont Highschool | Electrical Engineering | Incoming Senior
+| Amisha | Carlmont | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
