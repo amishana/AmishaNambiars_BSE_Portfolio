@@ -3,7 +3,7 @@ I am working on a third eye for the visually blind.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Amisha | Carlmont | Electrical Engineering | Incoming Senior
+| Amisha | Carlmont | Computer Engineering | Incoming Senior
 
 ![Headstone Image](https://www.thespruce.com/thmb/gHnKB63imEVFCXL8JFkS-90nn5A=/3102x2068/filters:fill(auto,1)/parts-of-a-duck-385986-hero-0d59c12e67884a6384ffb46111973702.jpg)
   
