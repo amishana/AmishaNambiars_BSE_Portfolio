@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-I am working on a third eye for the visually blind.
+﻿# Third Eye for the Visually Impaired
+I am working on a third eye for the visually blind. It is a wearable piece of technology that 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -22,6 +22,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
 
 
-My first milestone was building the prototype for the third eye with all the necessary components and going over the code for the Arduino. For the prototype, I placed the ESP 32, which can download code from the Arduino, near the center of the breadboard. I connected the sensor to the ESP 32 and on the other side created  two paths. This was for the switch, where the user can pick if they want to be notified through a vibration (using the servo motor) or through a buzz (using the buzzer). The ESP 32 also connects to the LED light, to turn it on when the machine is on. There is also a transistor connected to manage the current flowing through the machine. I also went through the code, and understand what each line contributes to the machine.
+My first milestone was building the prototype for the third eye with all the necessary components and going over the code for the Arduino. For the prototype, I placed the ESP 32, which can download code from the Arduino IDE, near the center of the breadboard. I connected the sensor to the ESP 32 and on the other side created  two paths. This was for the switch, where the user can pick if they want to be notified through a vibration (using the servo motor) or through a buzz (using the buzzer). The ESP 32 also connects to the LED light, to turn it on when the machine is on. There is also a transistor connected to manage the current flowing through the machine. I also went through the code, and learned what each line contributes to the machine.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624637882/video_to_markdown/images/youtube--zVmdpnD3k6M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zVmdpnD3k6M "First Milestone"){:target="_blank" rel="noopener"}
