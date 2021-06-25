@@ -1,5 +1,5 @@
 ﻿# Third Eye for the Visually Impaired
-I am working on a third eye for the visually blind. It is a wearable piece of technology that 
+I am working on a third eye for the visually blind. It is a wearable piece of technology that uses sensors to notify the wearer if they are about to hit something. The user can pick a buzz or vibration to notify them if they get within a few centimeters of an object so they know it is there and can avoid bumping into it.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
