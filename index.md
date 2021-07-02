@@ -16,10 +16,10 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone is that I got my prototype working more accurately and added a modification. 
+My second milestone is that I got my prototype working more accurately. Before, my prototype had a lot of wiring and coding issues that I needed to resolve. Some of the wires were connected to the incorrect pins so they were not recieving certain lines of the code. I also had to replace and import two new libraries because I was using an ESP 32 instead of an Aruino Mini. I replaced both the library for the buzzer code and for the servo motor code for special ones that work on ESPs. This got my prototype to be fully funcional.
 
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625242681/video_to_markdown/images/youtube--YpRgQElTkxo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YpRgQElTkxo "Second Milestone"){:target="_blank" rel="noopener"}
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
 
 
