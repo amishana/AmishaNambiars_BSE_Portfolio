@@ -1,5 +1,5 @@
 ﻿# Third Eye for the Visually Impaired
-I am working on a third eye for the visually blind. It is a wearable piece of technology that uses sensors to notify the wearer if they are about to hit something. The user can pick a buzz or vibration to notify them if they get within a few centimeters of an object so they know it is there and can avoid bumping into it.
+I am working on a third eye for the visually blind. It is a wearable piece of technology that uses sensors to notify the wearer if they are about to hit something. The user can pick between a buzz or vibration to notify them if they get within a few centimeters of an object so they know it is there and can avoid bumping into it.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -8,7 +8,7 @@ I am working on a third eye for the visually blind. It is a wearable piece of te
 ![Headstone Image](https://www.thespruce.com/thmb/gHnKB63imEVFCXL8JFkS-90nn5A=/3102x2068/filters:fill(auto,1)/parts-of-a-duck-385986-hero-0d59c12e67884a6384ffb46111973702.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone was to solder all the parts of my device onto a perf board. It was hard for me to make lines with the solder because it kept pooling in the holes of the perf board. I finished soldering it and attached it to a strip so that the device can be mobile and usuable. I also replaced one of the libraries to be compatible with the other, because previously, my buzzer library was interfering with a different buzzer library that was already written into the servo motor's library. Overall, I am glad I did this project because it is a useful and cool project to have done. Also, this project made me interested in engineering and curious to explore it further.
 
 [![10,000 ducks](https://res.cloudinary.com/marcomontalbano/image/upload/v1623949163/video_to_markdown/images/youtube--Nw4c5RhRYMY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Nw4c5RhRYMY "10,000 ducks")
 {:target="_blank" rel="noopener"}
