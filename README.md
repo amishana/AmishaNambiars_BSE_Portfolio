@@ -12,4 +12,4 @@ Amisha Nambiar and Kevin Miller authored servoMotor.ino, switchTest.ino, and thi
 ### Files in This Repository:<br />
 servoMotor.ino runs the sensor and outputs angles when an object is sensed.<br />
 switchTest.ino makes sure the on and off switch is working correctly.<br />
-thirdEyeProject.ino contains the code for the entire machine and will beep when the user is about to encounter something<br />
+thirdEyeProject.ino contains the code for the entire machine and will beep when the user is about to encounter something.<br />
